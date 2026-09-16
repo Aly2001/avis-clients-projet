@@ -1,0 +1,5 @@
+.ipynb_checkpoints/
+__pycache__/
+.env
+*.pyc
+avis-clients-projet/data/raw/Reviews.csv

@@ -19,14 +19,7 @@ outputs/          figures et modèles générés
 ```
 
 ## Avancement
-- [x] Étape 1 : Choix du dataset
-- [x] Étape 2 : Structure du projet
-- [x] Étape 3 : Chargement et nettoyage des données (`src/data_loader.py`)
-- [ ] Étape 4 : Analyse exploratoire (EDA)
-- [ ] Étape 5 : Analyse de sentiment (NLP)
-- [ ] Étape 6 : Topic modeling
-- [ ] Étape 7 : Prévision (séries temporelles)
-- [ ] Étape 8 : Dashboard et restitution
+Voir le README à la racine du dépôt, qui présente aussi les résultats.
 
 ## Comment lancer
 ```bash
